@@ -60,7 +60,7 @@ def processar_imagens(pasta_raiz, chave_api_remove_bg):
             print(imagem_erro)
 
 # Uso do exemplo
-chave_api_remove_bg = 'PC9azwF3ww9RKXNX4JbcFzba'
+chave_api_remove_bg = '##################'
 pasta_raiz = input("Por favor, insira o caminho para a pasta raiz contendo as imagens: ")
 
 processar_imagens(pasta_raiz, chave_api_remove_bg)
